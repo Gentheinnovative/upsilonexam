@@ -1,0 +1,21 @@
+*{
+    float: left;
+    background-color: pink;
+    text-decoration-color: cornsilk;
+    width: 100%;
+    
+}
+
+.header{
+    height: 100px;
+}
+.section1{
+    padding-top: 30px;
+     
+}
+.section2{
+    padding-right: 40px;
+    padding-left: 20px;
+    padding-top: 10px;
+
+}
